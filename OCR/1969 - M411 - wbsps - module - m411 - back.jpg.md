@@ -45,7 +45,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M411/PHOTOS/1969 - M411 - wbsps - module - m411 - back.jpg",
+ "file": "Modules/AMPLIFIERS/M411/MANUALS/1969 - M411 - wbsps - module - m411 - back.jpg",
  "sha256": "9696da226d192944376d68aeb37a62a77f42e11513c53c4fe1e15f8cdc5bedfb",
  "kind": "module",
  "models": [

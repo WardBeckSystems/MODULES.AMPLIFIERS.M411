@@ -57,7 +57,7 @@ Individual cartridge loading , gain, high and low frequency trim controls for ea
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M411/PHOTOS/1969 - M411 - wbsps - promo - m411 - front.jpg",
+ "file": "Modules/AMPLIFIERS/M411/MANUALS/1969 - M411 - wbsps - promo - m411 - front.jpg",
  "sha256": "e0f92373e4be7b714484a5818b3e4c8fba4c311bcd988c802b502a6de9087135",
  "kind": "module",
  "models": [

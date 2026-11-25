@@ -49,7 +49,7 @@ WbspSC
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M411/PHOTOS/wbsps - promo - m411 - 002.jpg",
+ "file": "Modules/AMPLIFIERS/M411/MANUALS/wbsps - promo - m411 - 002.jpg",
  "sha256": "f0a3fedbb6bb04db693414e0a3be52fdb18751eec68b2605a2c311e3a4a351bb",
  "kind": "module",
  "models": [

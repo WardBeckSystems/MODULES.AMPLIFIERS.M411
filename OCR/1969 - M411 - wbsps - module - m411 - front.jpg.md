@@ -55,7 +55,7 @@ Irdividual cartridge |Qacing , gain; hiyh and Iow "requency Irin Lonirols T0r ca
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M411/PHOTOS/1969 - M411 - wbsps - module - m411 - front.jpg",
+ "file": "Modules/AMPLIFIERS/M411/MANUALS/1969 - M411 - wbsps - module - m411 - front.jpg",
  "sha256": "03a1940c4bda8ce9b79b296b0114031084685732617683c1027ed30af0596518",
  "kind": "module",
  "models": [
