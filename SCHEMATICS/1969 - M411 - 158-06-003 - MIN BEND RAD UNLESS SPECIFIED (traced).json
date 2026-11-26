@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M411/SCHEMATICS/1969 - M411 - 158-06-003 - MIN BEND RAD UNLESS SPECIFIED.jpg",
+ "version": 1,
+ "trace": "_traces/8e6deae4786a5e42.svg",
+ "sheet": {
+  "number": "158-06-003",
+  "title": "Min Bend Rad Unless Specified",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 90,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.9, 0.2, 431.8, 286.3],
+ "outlines": {
+  "line": {"rings": 1935, "straight": {"n": 9941, "mm": 11102.1}, "curved": {"n": 2013, "mm": 2031.6}},
+  "text": {"rings": 179, "straight": {"n": 1309, "mm": 1334.1}, "curved": {"n": 332, "mm": 374.3}}
+ },
+ "circles": [{"c": [146.0, 201.2], "r": 1.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [216.1, 4.1, 332.1, 50.7], "w": 116.0, "h": 46.6, "from": "ring"},
+  {"mm": [202.1, 41.0, 215.0, 50.1], "w": 13.0, "h": 9.1, "from": "ring"},
+  {"mm": [166.9, 37.4, 183.4, 43.4], "w": 16.5, "h": 6.0, "from": "ring"},
+  {"mm": [202.1, 22.5, 215.3, 40.8], "w": 13.2, "h": 18.4, "from": "ring"},
+  {"mm": [166.9, 30.4, 183.3, 37.2], "w": 16.4, "h": 6.8, "from": "ring"},
+  {"mm": [202.1, 13.2, 215.3, 22.0], "w": 13.2, "h": 8.9, "from": "ring"},
+  {"mm": [346.1, 5.0, 413.7, 14.1], "w": 67.6, "h": 9.1, "from": "ring"},
+  {"mm": [414.1, 5.4, 425.6, 14.0], "w": 11.5, "h": 8.6, "from": "ring"},
+  {"mm": [333.8, 4.7, 345.9, 13.6], "w": 12.1, "h": 8.9, "from": "ring"},
+  {"mm": [202.3, 4.0, 215.3, 13.0], "w": 13.0, "h": 8.9, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [234.4, 35.6], "r": 1.2, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 158-06-003, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 2–432 mm across, 0–286 mm up",
+  "- **Outlines:** line 1,935 rings, 9,941 straight (11,102 mm) / 2,013 curved (2,032 mm); text 179 rings, 1,309 straight (1,334 mm) / 332 curved (374 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.0 @ (146.0, 201.2)",
+  "- **Closed boxes:** 10",
+  "- **Dots (junctions):** 1"
+ ]
+}
