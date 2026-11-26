@@ -20,7 +20,7 @@ Wiki page: [M411](../../../../PAGES/M411.md)
 - **Closed boxes:** 10
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1969 - M411 - 158-06-003 - MIN BEND RAD UNLESS SPECIFIED (traced).json](../SCHEMATICS/1969%20-%20M411%20-%20158-06-003%20-%20MIN%20BEND%20RAD%20UNLESS%20SPECIFIED%20(traced).json) (the CAD file: `1969 - M411 - 158-06-003 - MIN BEND RAD UNLESS SPECIFIED (traced).dxf`).
+Every curve, box, word and wire group: [1969 - M411 - 158-06-003 - MIN BEND RAD UNLESS SPECIFIED (traced).json](../SCHEMATICS/1969%20-%20M411%20-%20158-06-003%20-%20MIN%20BEND%20RAD%20UNLESS%20SPECIFIED%20%28traced%29.json) (the CAD file: `1969 - M411 - 158-06-003 - MIN BEND RAD UNLESS SPECIFIED (traced).dxf`).
 
 ## Full text
 

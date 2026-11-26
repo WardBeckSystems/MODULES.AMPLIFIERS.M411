@@ -32,7 +32,7 @@ Wiki page: [M411](../../../../PAGES/M411.md)
 - **Closed boxes:** 17
 - **Wiring (first pass):** 51 connected wire groups from 369 runs
 
-Every curve, box, word and wire group: [1972 - 411-02-002 - (partial, rotated) TURU... PRE... SCHE - DRN BCK - ISS 8 (traced).json](../SCHEMATICS/1972%20-%20411-02-002%20-%20(partial%2C%20rotated)%20TURU...%20PRE...%20SCHE%20-%20DRN%20BCK%20-%20ISS%208%20(traced).json) (the CAD file: `1972 - 411-02-002 - (partial, rotated) TURU... PRE... SCHE - DRN BCK - ISS 8 (traced).dxf`).
+Every curve, box, word and wire group: [1972 - 411-02-002 - (partial, rotated) TURU... PRE... SCHE - DRN BCK - ISS 8 (traced).json](../SCHEMATICS/1972%20-%20411-02-002%20-%20%28partial%2C%20rotated%29%20TURU...%20PRE...%20SCHE%20-%20DRN%20BCK%20-%20ISS%208%20%28traced%29.json) (the CAD file: `1972 - 411-02-002 - (partial, rotated) TURU... PRE... SCHE - DRN BCK - ISS 8 (traced).dxf`).
 
 ## Full text
 
