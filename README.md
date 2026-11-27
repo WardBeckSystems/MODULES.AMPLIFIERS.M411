@@ -13,6 +13,61 @@ Ward-Beck Systems M411, 1969|2. Wiki page: [M411 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 39 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1969 - M411 - P5.jpg](MANUALS/1969%20-%20M411%20-%20P5.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **GA N** | Adjustable_ 5 mV rms input level produces 0 dBm output Teve 1 (Equivalent to 44 dB of gain with 600 ohm terminated source) |
+| **Frequency response** | RIAA/NAB equalization characteristic within *1 dB from 30 Hz to 15 kHz. Integral rumble filter produces -25 dB at 10 Hz. Scratch filter selectab le, greater than -6 dB down 6 kHz, and 20 dB at 10 kHz. |
+| **Noise** | Less than 2.5 micro-volts input noise measured 10 Hz to 100 kHz bandwidth and with 600 ohm terminated input) equivalent to -110 dBm input noise. |
+| **Total harmonic distortion** | Less than 0.5% from 30 Hz to 15 kHz (measured at +20 dBm output Level). |
+| **Input impedance** | Adjustable, 20k ohm to 60k ohm, unbalanced |
+| **Input level** | 5 mV nominal 0.25V maximum |
+| **Load impedance** | 150 ohms or higher, balanced |
+| **Output impedance** | 150 ohms, balanced |
+| **Output level** | 0 dBm nominal +22 dBm maximum |
+| **Sum output** | L + R 10 dBm, Nomina] |
+| **Phasing** | The centre pin of the input phono connector and the low numbered termina] of the output pair are in phase. |
+| **Power requirements** | 115 Vac, 60 Hz, 5 VA 00 to 600 C |
+| **Dimensions** | 2.5&quot;1 W X 10&quot; H x 7.5&quot; (depth below surface) |
+| **Weight** | 4.5 Ibs net |
+
+## Circuit description
+
+From [1969 - M411 - P3.jpg](MANUALS/1969%20-%20M411%20-%20P3.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+2) 3) 4) 5) 6) Technical Data External Connections Set-up Procedure Replaceable Parts List Drawings:
+
+**B 411-02-001**
+
+Phono Preampli fier PC Board M158 Schematic
+
+**B 158-06-003**
+
+PC Board M158 Component Layout
+
+**B 411-02-002**
+
+Turntable and Phono Preampli fier System Schematic
+
+**A 411-06-001**
+
+Phono Preampli fier Front Panel Layout
+
+**A 411-07-001**
+
+Preampl i fier Out] ine Drawing
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

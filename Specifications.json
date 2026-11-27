@@ -1,0 +1,244 @@
+{
+ "module": "M411",
+ "title": "",
+ "source": {
+  "file": "MANUALS/1969 - M411 - P5.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.92,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "GA N",
+   "key": "ga_n",
+   "text": "Adjustable_ 5 mV rms input level produces 0 dBm output Teve 1 (Equivalent to 44 dB of gain with 600 ohm terminated source)",
+   "quantities": [
+    {
+     "value": 5,
+     "unit": "mV"
+    },
+    {
+     "value": 0,
+     "unit": "dBm"
+    },
+    {
+     "value": 44,
+     "unit": "dB"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "RIAA/NAB equalization characteristic within *1 dB from 30 Hz to 15 kHz. Integral rumble filter produces -25 dB at 10 Hz. Scratch filter selectab le, greater than -6 dB down 6 kHz, and 20 dB at 10 kHz.",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "dB"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "kHz"
+    },
+    {
+     "value": -25,
+     "unit": "dB"
+    },
+    {
+     "value": 10,
+     "unit": "Hz"
+    },
+    {
+     "value": -6,
+     "unit": "dB"
+    },
+    {
+     "value": 6,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "dB"
+    },
+    {
+     "value": 10,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "Less than 2.5 micro-volts input noise measured 10 Hz to 100 kHz bandwidth and with 600 ohm terminated input) equivalent to -110 dBm input noise.",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "Hz"
+    },
+    {
+     "value": 100,
+     "unit": "kHz"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    },
+    {
+     "value": -110,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Total harmonic distortion",
+   "key": "total_harmonic_distortion",
+   "text": "Less than 0.5% from 30 Hz to 15 kHz (measured at +20 dBm output Level).",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Adjustable, 20k ohm to 60k ohm, unbalanced"
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "5 mV nominal 0.25V maximum",
+   "quantities": [
+    {
+     "value": 5,
+     "unit": "mV"
+    },
+    {
+     "value": 0.25,
+     "unit": "V"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "150 ohms or higher, balanced",
+   "quantities": [
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "150 ohms, balanced",
+   "quantities": [
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "0 dBm nominal +22 dBm maximum",
+   "quantities": [
+    {
+     "value": 0,
+     "unit": "dBm"
+    },
+    {
+     "value": 22,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Sum output",
+   "key": "sum_output",
+   "text": "L + R 10 dBm, Nomina]",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "The centre pin of the input phono connector and the low numbered termina] of the output pair are in phase."
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "115 Vac, 60 Hz, 5 VA 00 to 600 C",
+   "quantities": [
+    {
+     "value": 115,
+     "unit": "Vac"
+    },
+    {
+     "value": 60,
+     "unit": "Hz"
+    },
+    {
+     "value": 5,
+     "unit": "VA"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "2.5\"1 W X 10\" H x 7.5\" (depth below surface)",
+   "quantities": [
+    {
+     "value": 2.5,
+     "unit": "\""
+    },
+    {
+     "value": 1,
+     "unit": "W"
+    },
+    {
+     "value": 10,
+     "unit": "\""
+    },
+    {
+     "value": 7.5,
+     "unit": "\""
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "4.5 Ibs net"
+  }
+ ]
+}
