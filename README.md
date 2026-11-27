@@ -1,17 +1,17 @@
-# M411 · Amplifiers
+# M411 Transcription Preamplifier · Amplifiers
 
 Ward-Beck Systems M411, 1969|2. Wiki page: [M411 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M411.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 4 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 20 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 13 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 39 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 38 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -86,19 +86,10 @@ Not on Google Drive yet: `19xx - M411 - M411.jpg`, `19xx - M411 - turn table pre
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYUdlN2s1THAxckU/view?resourcekey=0-WsMRo9jMwQiuQjjYXduCvg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYUdlN2s1THAxckU&resourcekey=0-WsMRo9jMwQiuQjjYXduCvg" width="240" alt="19xx - M411 - DOC - STEREO L SERIES - P009 - B77012-04-011 L.jpg"></a><br><sub>19xx - M411 - DOC - STEREO L SERIES - P009 - B77012-04-011 L</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYUdlN2s1THAxckU/view?resourcekey=0-WsMRo9jMwQiuQjjYXduCvg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYUdlN2s1THAxckU&resourcekey=0-WsMRo9jMwQiuQjjYXduCvg" width="240" alt="19xx - M411 - DOC - STEREO L SERIES - P009 - B77012-04-011 L.jpg"></a><br><sub>19xx - M411 - DOC - STEREO L SERIES - P009 - B77012-04-011 L · <a href="MECHANICAL/19xx%20-%20M411%20-%20DOC%20-%20STEREO%20L%20SERIES%20-%20P009%20-%20B77012-04-011%20L%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1970 - 411-03-001 - ESCUTCHEON (M411) - ISS 3.jpg`
-
-## 3-D model
-
-[`MECHANICAL/M411.stl`](MECHANICAL/M411.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M411)
-
-- **Size:** 63.5 × 254 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 2.5"1 W X 10" H x 7.5" (depth below surface))
-- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M411 - front panel.svg`)
-- the drawn panel is 0.40 wide to high, the size 0.25: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M411.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -106,7 +97,7 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQmFJR2tTWEtWSlE/view?resourcekey=0-8zs0QOl0bTY9F1m1H6cPSw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQmFJR2tTWEtWSlE&resourcekey=0-8zs0QOl0bTY9F1m1H6cPSw" width="240" alt="1969 - M411 - 158-06-003 - MIN BEND RAD UNLESS SPECIFIED.jpg"></a><br><sub>1969|2 · 158-06-003 - MIN BEND RAD UNLESS SPECIFIED · <a href="SCHEMATICS/1969%20-%20M411%20-%20158-06-003%20-%20MIN%20BEND%20RAD%20UNLESS%20SPECIFIED%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWlNINlNWYnpMc2s/view?resourcekey=0-cO0Mx7zyUJrn1bVaCVOCCA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWlNINlNWYnpMc2s&resourcekey=0-cO0Mx7zyUJrn1bVaCVOCCA" width="240" alt="1969 - M411 - 411-02-001.jpg"></a><br><sub>1969|2 · 411-02-001 · <a href="SCHEMATICS/1969%20-%20M411%20-%20411-02-001%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSndFUmRoT0FQUGM/view?resourcekey=0-JS7f96GQl5rZHHIut9jqhg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSndFUmRoT0FQUGM&resourcekey=0-JS7f96GQl5rZHHIut9jqhg" width="240" alt="1969 - M411 - 411-02-002 - EREN EES BLACK.jpg"></a><br><sub>1969|2 · 411-02-002 - EREN EES BLACK · <a href="SCHEMATICS/1969%20-%20M411%20-%20411-02-002%20-%20EREN%20EES%20BLACK%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWmUwOVlxQWpKbWc/view?resourcekey=0-NaMaMEUYfhGtI65TDgmnoQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWmUwOVlxQWpKbWc&resourcekey=0-NaMaMEUYfhGtI65TDgmnoQ" width="240" alt="1969 - M411 - 411-02-002 - LID TURUTABLE AUD PHONO PRE AMPLIFER SYSTEM SCHEHATIC.jpg"></a><br><sub>1969|2 · 411-02-002 - LID TURUTABLE AUD PHONO PRE AMPLIFER SYSTEM SCHEHATIC · <a href="SCHEMATICS/1969%20-%20M411%20-%20411-02-002%20-%20LID%20TURUTABLE%20AUD%20PHONO%20PRE%20AMPLIFER%20SYSTEM%20SCHEHATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLUtoUzhBbl91V0U/view?resourcekey=0-uMDojw4vAIi506dYm10jVg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLUtoUzhBbl91V0U&resourcekey=0-uMDojw4vAIi506dYm10jVg" width="240" alt="1977 - M411 - DOC - 77012-01-004 - MUT DIR MILIA MOM OUT.jpg"></a><br><sub>1977|10 · DOC - 77012-01-004 - MUT DIR MILIA MOM OUT</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLUtoUzhBbl91V0U/view?resourcekey=0-uMDojw4vAIi506dYm10jVg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLUtoUzhBbl91V0U&resourcekey=0-uMDojw4vAIi506dYm10jVg" width="240" alt="1977 - M411 - DOC - 77012-01-004 - MUT DIR MILIA MOM OUT.jpg"></a><br><sub>1977|10 · DOC - 77012-01-004 - MUT DIR MILIA MOM OUT · <a href="SCHEMATICS/1977%20-%20M411%20-%20DOC%20-%2077012-01-004%20-%20MUT%20DIR%20MILIA%20MOM%20OUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1972 - 411-02-002 - (partial, rotated) TURU... PRE... SCHE - DRN BCK - ISS 8.jpg`
@@ -148,6 +139,7 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1969 - M411 - 411-02-002 - EREN EES BLACK.kicad_sch](KICAD/1969%20-%20M411%20-%20411-02-002%20-%20EREN%20EES%20BLACK.kicad_sch)
 - [1969 - M411 - 411-02-002 - LID TURUTABLE AUD PHONO PRE AMPLIFER SYSTEM SCHEHATIC.kicad_sch](KICAD/1969%20-%20M411%20-%20411-02-002%20-%20LID%20TURUTABLE%20AUD%20PHONO%20PRE%20AMPLIFER%20SYSTEM%20SCHEHATIC.kicad_sch)
 - [1972 - 411-02-002 - (partial, rotated) TURU... PRE... SCHE - DRN BCK - ISS 8.kicad_sch](KICAD/1972%20-%20411-02-002%20-%20(partial%2C%20rotated)%20TURU...%20PRE...%20SCHE%20-%20DRN%20BCK%20-%20ISS%208.kicad_sch)
+- [1977 - M411 - DOC - 77012-01-004 - MUT DIR MILIA MOM OUT.kicad_sch](KICAD/1977%20-%20M411%20-%20DOC%20-%2077012-01-004%20-%20MUT%20DIR%20MILIA%20MOM%20OUT.kicad_sch)
 - [M411.kicad_sym](KICAD/M411.kicad_sym)
 - [index.html](KICAD/index.html)
 
