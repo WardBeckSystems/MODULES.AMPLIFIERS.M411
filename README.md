@@ -91,6 +91,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1970 - 411-03-001 - ESCUTCHEON (M411) - ISS 3.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M411.stl`](MECHANICAL/M411.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M411)
+
+- **Size:** 63.5 × 254 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 2.5"1 W X 10" H x 7.5" (depth below surface))
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M411 - front panel.svg`)
+- the drawn panel is 0.40 wide to high, the size 0.25: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M411.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
