@@ -1,5 +1,5 @@
 # 19xx - M411 - turn table pre-amp 002.jpg
-Wiki page: [M411](../../../../PAGES/M411.md)
+Wiki page: [M411](../)
 
 
 - **Year:** unknown (unknown)

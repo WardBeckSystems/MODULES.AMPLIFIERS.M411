@@ -1,5 +1,5 @@
 # 1972 - 411-02-002 - (partial, rotated) TURU... PRE... SCHE - DRN BCK - ISS 8.jpg
-Wiki page: [M411](../../../../PAGES/M411.md)
+Wiki page: [M411](../)
 
 
 - **Year:** 1972 (title block date)

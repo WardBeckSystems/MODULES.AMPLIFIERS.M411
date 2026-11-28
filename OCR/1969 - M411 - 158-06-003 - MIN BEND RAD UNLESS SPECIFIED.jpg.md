@@ -1,5 +1,5 @@
 # 1969 - M411 - 158-06-003 - MIN BEND RAD UNLESS SPECIFIED.jpg
-Wiki page: [M411](../../../../PAGES/M411.md)
+Wiki page: [M411](../)
 
 
 - **Year:** 1969 (module estimate (labelled))

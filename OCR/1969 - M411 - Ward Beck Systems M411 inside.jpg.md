@@ -1,5 +1,5 @@
 # 1969 - M411 - Ward Beck Systems M411 inside.jpg
-Wiki page: [M411](../../../../PAGES/M411.md)
+Wiki page: [M411](../)
 
 
 - **Year:** 1969 (module estimate (labelled))

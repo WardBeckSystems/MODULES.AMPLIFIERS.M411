@@ -1,6 +1,6 @@
 # M411 Transcription Preamplifier · Amplifiers
 
-Ward-Beck Systems M411, 1969|2. Wiki page: [M411 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M411.html)
+Ward-Beck Systems M411, 1969|2. Wiki page: [M411 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M411-Transcription-Preamplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

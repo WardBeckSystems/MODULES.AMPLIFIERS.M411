@@ -1,5 +1,5 @@
 # wbsps - promo - m411 - 002.jpg
-Wiki page: [M411](../../../../PAGES/M411.md)
+Wiki page: [M411](../)
 
 
 - **Year:** unknown (title block (read by eye))

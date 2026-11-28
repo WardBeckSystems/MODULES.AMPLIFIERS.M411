@@ -1,5 +1,5 @@
 # 1969 - M411 - wbsps - module - m411 - back_small.jpg
-Wiki page: [M411](../../../../PAGES/M411.md)
+Wiki page: [M411](../)
 
 
 - **Year:** 1969 (module estimate (labelled))
