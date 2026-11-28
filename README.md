@@ -4,13 +4,12 @@ Ward-Beck Systems M411, 1969|2. Wiki page: [M411 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 4 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 20 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 13 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 23 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 19 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 12 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 38 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -79,8 +78,6 @@ _Photographs of the module itself: front, back, inside, racked._
 
 Shared privately on Google Drive (opens after sign-in): [1969|2 · wbsps - module - m411 - back_small](https://drive.google.com/file/d/0B0yR0b5T78SKSVpwYmFWMTMxSEU/view?resourcekey=0-1llkZoD-SAahoS6QrdvLCA) · [1969|2 · wbsps - module - m411 - front_small](https://drive.google.com/file/d/0B0yR0b5T78SKa1N4UEVDYzA1VkU/view?resourcekey=0-KFwnaWKs0gOHV00hasfFYQ)
 
-Not on Google Drive yet: `19xx - M411 - M411.jpg`, `19xx - M411 - turn table pre-amp 000.jpg`, `19xx - M411 - turn table pre-amp 001.jpg`, `19xx - M411 - turn table pre-amp 002.jpg`, `19xx - M411 - turn table pre-amp 003.jpg`, `448px-Wbsps_-_module_-_m411_-_back.jpg`
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
@@ -89,7 +86,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYUdlN2s1THAxckU/view?resourcekey=0-WsMRo9jMwQiuQjjYXduCvg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYUdlN2s1THAxckU&resourcekey=0-WsMRo9jMwQiuQjjYXduCvg" width="240" alt="19xx - M411 - DOC - STEREO L SERIES - P009 - B77012-04-011 L.jpg"></a><br><sub>19xx - M411 - DOC - STEREO L SERIES - P009 - B77012-04-011 L · <a href="MECHANICAL/19xx%20-%20M411%20-%20DOC%20-%20STEREO%20L%20SERIES%20-%20P009%20-%20B77012-04-011%20L%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1970 - 411-03-001 - ESCUTCHEON (M411) - ISS 3.jpg`
+## 3-D model
+
+[`MECHANICAL/M411.stl`](MECHANICAL/M411.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M411)
+
+- **Size:** 63.5 × 254 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 2.5"1 W X 10" H x 7.5" (depth below surface))
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M411 - front panel.svg`)
+- the drawn panel is 0.40 wide to high, the size 0.25: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M411.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -100,13 +104,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLUtoUzhBbl91V0U/view?resourcekey=0-uMDojw4vAIi506dYm10jVg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLUtoUzhBbl91V0U&resourcekey=0-uMDojw4vAIi506dYm10jVg" width="240" alt="1977 - M411 - DOC - 77012-01-004 - MUT DIR MILIA MOM OUT.jpg"></a><br><sub>1977|10 · DOC - 77012-01-004 - MUT DIR MILIA MOM OUT · <a href="SCHEMATICS/1977%20-%20M411%20-%20DOC%20-%2077012-01-004%20-%20MUT%20DIR%20MILIA%20MOM%20OUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1972 - 411-02-002 - (partial, rotated) TURU... PRE... SCHE - DRN BCK - ISS 8.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M411 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -129,8 +129,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 Shared privately on Google Drive (opens after sign-in): [1969|2 · wbsps - module - m411 - back](https://drive.google.com/file/d/0B0yR0b5T78SKVVpYUm9PM0VrME0/view?resourcekey=0-8oMPXRyviinU6YVNcCVYTg) · [1969|2 · wbsps - module - m411 - front](https://drive.google.com/file/d/0B0yR0b5T78SKMUphTTRyS2pjOUE/view?resourcekey=0-_JZBOtyeKR_KB94F_AunSg)
 
-Not on Google Drive yet: `Wbsps_-_module_-_m411_-_back.jpg`, `wbsps - promo - m411 - 002.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -141,7 +139,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1972 - 411-02-002 - (partial, rotated) TURU... PRE... SCHE - DRN BCK - ISS 8.kicad_sch](KICAD/1972%20-%20411-02-002%20-%20(partial%2C%20rotated)%20TURU...%20PRE...%20SCHE%20-%20DRN%20BCK%20-%20ISS%208.kicad_sch)
 - [1977 - M411 - DOC - 77012-01-004 - MUT DIR MILIA MOM OUT.kicad_sch](KICAD/1977%20-%20M411%20-%20DOC%20-%2077012-01-004%20-%20MUT%20DIR%20MILIA%20MOM%20OUT.kicad_sch)
 - [M411.kicad_sym](KICAD/M411.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
